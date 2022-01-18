@@ -1,2 +1,2 @@
-# docs
-Public documents
+# Initial page
+
